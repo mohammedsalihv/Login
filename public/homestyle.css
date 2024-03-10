@@ -1,0 +1,15 @@
+body{
+    background-image: url(./images/Home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.container-fluid .navbar-brand{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+   
+}
+.bg-custom {
+    background-color: white;
+  }
+  
